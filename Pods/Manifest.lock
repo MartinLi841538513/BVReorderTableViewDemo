@@ -1,0 +1,10 @@
+PODS:
+  - BVReorderTableView (1.0.0)
+
+DEPENDENCIES:
+  - BVReorderTableView (~> 1.0)
+
+SPEC CHECKSUMS:
+  BVReorderTableView: 4cebba978cd366a57ad3c7864caa19ac024c43aa
+
+COCOAPODS: 0.33.1
